@@ -5,6 +5,15 @@
         <link>https://gemarkq.github.io/tags/</link>
         <description>Recent content in Tags on Jiankun Qiu</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://gemarkq.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gemarkq.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>binarySearch</title>
+        <link>https://gemarkq.github.io/tags/binarysearch/</link>
+        <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://gemarkq.github.io/tags/binarysearch/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

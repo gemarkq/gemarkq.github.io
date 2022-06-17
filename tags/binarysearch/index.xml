@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Jiankun Qiu</title>
-        <link>https://gemarkq.github.io/</link>
-        <description>Recent content on Jiankun Qiu</description>
+        <title>binarySearch on Jiankun Qiu</title>
+        <link>https://gemarkq.github.io/tags/binarysearch/</link>
+        <description>Recent content in binarySearch on Jiankun Qiu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gemarkq.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gemarkq.github.io/tags/binarysearch/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Bug Free Binary Search Implementation</title>
         <link>https://gemarkq.github.io/p/bug-free-binary-search-implementation/</link>
         <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
@@ -156,46 +156,6 @@
     &gt;Binary Search - GeeksforGeeks&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        </item>
-        <item>
-        <title>About</title>
-        <link>https://gemarkq.github.io/about/</link>
-        <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://gemarkq.github.io/about/</guid>
-        <description>&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;“It’s hardware that makes a machine fast. It’s software that makes a fast machine slow. ”&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Nickname:&lt;/strong&gt;   Markqqq&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt;   &lt;a class=&#34;link&#34; href=&#34;mailto:jiankun_qiu@163.com&#34; &gt;jiankun_qiu@163.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/gemarkq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Github&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/jiankun-qiu-13a805230/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Linkedin&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;What this blog is used for?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;This blog is mainly used to record my life, I hope it will be an alternative &amp;ldquo;memory&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;To be honest, I&amp;rsquo;ve been thinking about writing blogs for a while. However, until now, I actually started building this website and starting my own blogging life. I&amp;rsquo;d like to share what happened in my life, what I have learned, what I have experienced with people I love and people who loved me, even strangers.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;尽力而为！！！&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Archives</title>
-        <link>https://gemarkq.github.io/archives/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://gemarkq.github.io/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>https://gemarkq.github.io/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://gemarkq.github.io/search/</guid>
-        <description></description>
         </item>
         
     </channel>

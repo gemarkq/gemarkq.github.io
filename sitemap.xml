@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gemarkq.github.io/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gemarkq.github.io/categories/algorithm/</loc>
+    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gemarkq.github.io/tags/binarysearch/</loc>
+    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gemarkq.github.io/p/bug-free-binary-search-implementation/</loc>
+    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gemarkq.github.io/categories/</loc>
+    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gemarkq.github.io/post/</loc>
+    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gemarkq.github.io/tags/</loc>
+    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gemarkq.github.io/about/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
@@ -13,10 +31,6 @@
   </url><url>
     <loc>https://gemarkq.github.io/archives/</loc>
   </url><url>
-    <loc>https://gemarkq.github.io/categories/</loc>
-  </url><url>
     <loc>https://gemarkq.github.io/search/</loc>
-  </url><url>
-    <loc>https://gemarkq.github.io/tags/</loc>
   </url>
 </urlset>
