@@ -24,8 +24,8 @@
 &lt;li&gt;Otherwise, narrow it to the upper half&lt;/li&gt;
 &lt;li&gt;Repeatedly check from the second point until the value is found or the interval is empty.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;:flags: Although the logic of the algorithm is very simple, I believe we all meet the problem :shit: whether to use &lt;code&gt;&amp;lt;= &lt;/code&gt; or &lt;code&gt;&amp;lt;&lt;/code&gt;, whether to use &lt;code&gt;left = mid + 1&lt;/code&gt; or &lt;code&gt;left = mid&lt;/code&gt;. When the iteration is end, which result (&lt;code&gt;left or right&lt;/code&gt;) should I return?&lt;/p&gt;
-&lt;p&gt;I will introduce two different implementation of the algorithm. Of Course, they are bug free !!!!!!!! :satisfied::satisfied::satisfied::satisfied:&lt;/p&gt;
+&lt;p&gt;🎏 Although the logic of the algorithm is very simple, I believe we all meet the problem 💩 whether to use &lt;code&gt;&amp;lt;= &lt;/code&gt; or &lt;code&gt;&amp;lt;&lt;/code&gt;, whether to use &lt;code&gt;left = mid + 1&lt;/code&gt; or &lt;code&gt;left = mid&lt;/code&gt;. When the iteration is end, which result (&lt;code&gt;left or right&lt;/code&gt;) should I return?&lt;/p&gt;
+&lt;p&gt;I will introduce two different implementation of the algorithm. Of Course, they are bug free !!!!!!!! 😆😆😆😆&lt;/p&gt;
 &lt;h2 id=&#34;return-the-first-value-that-is-no-less-than-the-target&#34;&gt;Return the first value that is no less than the target&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;The array should be non-descending order !!!&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
